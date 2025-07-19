@@ -2,26 +2,7 @@
 🔹 **I can code (dev) , I can hack (sec) , and I can “consult"**
 
 ## 🏴‍☠️ Skills & Expertise  
-
-🎯 **Offensive Security (Red Team)**  
-💻 **Penetration Testing:** Metasploit, Burp Suite, SQLmap  
-🔍 **Web & API Security:** OWASP ZAP, Nikto, Recon-ng  
-🕵️ **OSINT & Reconnaissance:** Maltego, Shodan, TheHarvester  
-
-🛡️ **Defensive Security (Blue Team)**  
-🖥️ **SIEM & Monitoring:** Splunk, ELK Stack, Suricata  
-🚨 **Incident Response:** Wireshark, Snort, Volatility  
-🔐 **Digital Forensics:** Autopsy, FTK Imager, Sleuth Kit  
-
-🛠️ **Cryptography & Secure Development**  
-🔑 **Encryption & Hashing:** OpenSSL, GPG, bcrypt  
-📝 **Secure Coding:** OWASP Top 10, SAST/DAST  
-🌍 **Cloud Security:** AWS Security Hub, Azure Sentinel  
-
-📀 **Operating Systems & Networks**  
-🐧 **Linux:** Kali, Parrot OS, Ubuntu  
-🖥️ **Windows Security:** PowerShell, Sysinternals  
-🌐 **Network Security:** Nmap, Netcat, Aircrack-ng  
+**Navigatre to https://www.linkedin.com/in/fazalu-rahman/**
 
 ---
 
