@@ -1,11 +1,6 @@
 ## 🚀 About Me  
 🔹 **I can code (dev) , I can hack (sec) , and I can “consult"**
 
-## 🏴‍☠️ Skills & Expertise  
-**Navigatre to https://www.linkedin.com/in/fazalu-rahman/**
-
----
-
 ## 🔧 Tools & Technologies  
 
 <p align="center">
