@@ -1,3 +1,41 @@
+## 🚀 About Me  
+🔹 **Ethical Hacker | Penetration Tester | Cybersecurity Analyst**  
+🔹 Expert in **Web Security, Network Defense, and Red Teaming**  
+🔹 Passionate about **Threat Intelligence, SIEM, and Digital Forensics**  
+🔹 Strong skills in **OSINT, Incident Response, and Secure Coding**  
+🔹 **Cybersecurity Trainer & Speaker** 🎤  
+
+---
+
+## 🏴‍☠️ Skills & Expertise  
+
+🎯 **Offensive Security (Red Team)**  
+💻 **Penetration Testing:** Metasploit, Burp Suite, SQLmap  
+🔍 **Web & API Security:** OWASP ZAP, Nikto, Recon-ng  
+🕵️ **OSINT & Reconnaissance:** Maltego, Shodan, TheHarvester  
+
+🛡️ **Defensive Security (Blue Team)**  
+🖥️ **SIEM & Monitoring:** Splunk, ELK Stack, Suricata  
+🚨 **Incident Response:** Wireshark, Snort, Volatility  
+🔐 **Digital Forensics:** Autopsy, FTK Imager, Sleuth Kit  
+
+🛠️ **Cryptography & Secure Development**  
+🔑 **Encryption & Hashing:** OpenSSL, GPG, bcrypt  
+📝 **Secure Coding:** OWASP Top 10, SAST/DAST  
+🌍 **Cloud Security:** AWS Security Hub, Azure Sentinel  
+
+📀 **Operating Systems & Networks**  
+🐧 **Linux:** Kali, Parrot OS, Ubuntu  
+🖥️ **Windows Security:** PowerShell, Sysinternals  
+🌐 **Network Security:** Nmap, Netcat, Aircrack-ng  
+
+---
+
+## 🔧 Tools & Technologies  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,windows,bash,powershell,python,aws,azure,docker,kubernetes,git,github,gitlab" />
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fazalu-rahman) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@f4z41u) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/f4z41u) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:f4z41u@gmail.com) 
