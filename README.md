@@ -1,11 +1,5 @@
 ## 🚀 About Me  
-🔹 **Ethical Hacker | Penetration Tester | Cybersecurity Analyst**  
-🔹 Expert in **Web Security, Network Defense, and Red Teaming**  
-🔹 Passionate about **Threat Intelligence, SIEM, and Digital Forensics**  
-🔹 Strong skills in **OSINT, Incident Response, and Secure Coding**  
-🔹 **Cybersecurity Trainer & Speaker** 🎤  
-
----
+🔹 **I can code (dev) , I can hack (sec) , and I can “consult"**
 
 ## 🏴‍☠️ Skills & Expertise  
 
