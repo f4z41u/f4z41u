@@ -1,5 +1,5 @@
 ## 🚀 About Me  
-🔹 **I can code (dev) , I can hack (sec) , and I can “consult"**
+🔹 **I can code (dev) , I can hack (sec) , and I can “consult" : )**
 
 <div style="text-align: center;">
   <a href="https://git.io/typing-svg">
