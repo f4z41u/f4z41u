@@ -1,10 +1,7 @@
 ## 🚀 About Me  
-🔹 **I can code (dev) , I can hack (sec) , and I can “consult" : )**
 
 <div style="text-align: center;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9CFF1E&background=00000000&width=610&lines=breaking+stuff+for+fun.+making+web+secure" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5833F7&background=7837FF00&random=true&width=435&lines=I+can+code+(dev)+%2C+I+can+hack+(sec)" alt="Typing SVG" /></a>
 </div>
 
 ## 🔧 Tools & Technologies  
