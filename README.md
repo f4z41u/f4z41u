@@ -1,4 +1,4 @@
-<img src="[https://raw.githubusercontent.com/f4z41u/f4z41u/refs/heads/main/image.png](https://raw.githubusercontent.com/f4z41u/f4z41u/refs/heads/main/Scrat.webp)" alt="scrat image" width="400" />
+<img src="https://raw.githubusercontent.com/f4z41u/f4z41u/refs/heads/main/Scrat.webp" alt="scrat image" width="400" />
 
 
 
