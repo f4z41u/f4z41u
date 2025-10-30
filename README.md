@@ -2,7 +2,7 @@
 
 > *The one-stop-shop for code, security, and unapologetic geekery.*
 
-![Cybersecurity Meme](.png)
+![Cybersecurity Meme](https://raw.githubusercontent.com/f4z41u/f4z41u/refs/heads/main/image.png)
 
 ---
 
