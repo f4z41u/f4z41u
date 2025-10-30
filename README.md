@@ -1,8 +1,5 @@
-# Welcome to f4z41u 
+<img src="[https://raw.githubusercontent.com/f4z41u/f4z41u/refs/heads/main/image.png](https://raw.githubusercontent.com/f4z41u/f4z41u/refs/heads/main/Scrat.webp)" alt="scrat image" width="400" />
 
-> *The one-stop-shop for code, security, and unapologetic geekery.*
-
-<img src="https://raw.githubusercontent.com/f4z41u/f4z41u/refs/heads/main/image.png" alt="Funny cybersecurity hacker meme" width="400" />
 
 
 ---
