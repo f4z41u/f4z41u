@@ -2,7 +2,8 @@
 
 > *The one-stop-shop for code, security, and unapologetic geekery.*
 
-![Cybersecurity Meme](https://raw.githubusercontent.com/f4z41u/f4z41u/refs/heads/main/image.png)
+<img src="https://raw.githubusercontent.com/f4z41u/f4z41u/refs/heads/main/image.png" alt="Funny cybersecurity hacker meme" width="400" />
+
 
 ---
 
